@@ -13,6 +13,7 @@ The reviewer-facing anonymized URL is the anonymous.4open.science mirror of this
 ├── LICENSE                                        # Apache-2.0 for our contributions
 ├── README.md                                      # this file
 ├── agentk_code.zip                                # anonymized source bundle (code, configs, paper source)
+├── Licenses                                       # 3rd party licenses
 └── data/
     ├── dataset_release_v2_derived.tar.zst         # 1.2 MB — derived artifacts
     └── dataset_release_v2_raw_traces.tar.zst      # 4.7 MB — raw traces + CUDA sidecars
