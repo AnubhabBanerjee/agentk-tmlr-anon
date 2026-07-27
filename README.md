@@ -2,7 +2,7 @@
 
 Artifacts supporting the anonymous TMLR submission:
 
-**The Illusion of Memory Variance: Why Simple Averages Beat Analytical VRAM Models for LLM Agents**
+**The Illusion of Memory Variance: Why Simple Averages Beat Analytical Memory Predictions for AI Agents**
 
 The reviewer-facing anonymized URL is the anonymous.4open.science mirror of this repository (see the OpenReview submission for the exact `/r/<slug>/` URL).
 
