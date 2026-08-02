@@ -2,7 +2,7 @@
 
 Artifacts supporting the anonymous TMLR submission:
 
-**The Illusion of Memory Variance: Why Simple Averages Beat Analytical Memory Predictions for AI Agents**
+**Anatomy of a Quantized Agent: VRAM Stability and Forecasting in Code-Synthesis Agentic Workloads**
 
 The reviewer-facing anonymized URL is the anonymous.4open.science mirror of this repository (see the OpenReview submission for the exact `/r/<slug>/` URL).
 
