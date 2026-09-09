@@ -1,10 +1,10 @@
-# AgentK — Anonymous Submission for TMLR Review
+# AgentK — Anonymous Submission for TAI Review
 
-Artifacts supporting the anonymous TMLR submission:
+Artifacts supporting the anonymous TAI submission:
 
 **Anatomy of a Quantized Agent: VRAM Stability and Forecasting in Code-Synthesis Agentic Workloads**
 
-The reviewer-facing anonymized URL is the anonymous.4open.science mirror of this repository (see the OpenReview submission for the exact `/r/<slug>/` URL).
+The reviewer-facing anonymized URL is the anonymous.4open.science mirror of this repository (see the TAI submission for the exact `/r/<slug>/` URL).
 
 ## Contents
 
@@ -103,7 +103,7 @@ Our contributions are released under the Apache License, Version 2.0 (see `LICEN
 
 ## Anonymity notice
 
-This is a double-blind submission to TMLR. Reviewers are asked not to attempt to identify the authors. `AgentK` is a review-only pseudonym; the framework will be released under its real name upon acceptance.
+This is a double-blind submission to TAI. Reviewers are asked not to attempt to identify the authors. `AgentK` is a review-only pseudonym; the framework will be released under its real name upon acceptance.
 
 ## Contact during review
 
